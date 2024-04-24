@@ -1,0 +1,26 @@
+body {
+  background-image: url("images/stars.gif");
+  background-size: 25%;
+}
+
+p, table {
+  color: white;
+  text-align: center;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 50px;
+	font-size: 24px;
+}
+
+div {
+	padding: 1em;
+}
+
+
+table {
+	border-spacing: 24px;
+}
