@@ -3,6 +3,8 @@ html {
 	align-items: center;
 	font-family: "Times New Roman", Times, serif;
 	max-width: 100%;
+	background-image: url("images/stars.gif");
+	background-size: 500px;
 }
 
 * {
@@ -20,7 +22,7 @@ body {
 	margin-top: 5%;
 	align-items: center;
 	padding-bottom: 4rem;
-	border: 2px dashed lime;
+	border: 3px ridge grey;
 }
 
 /* Header */
